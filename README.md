@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Krzysztof 👋
 
-<!--
-**BaCe21/BaCe21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer with a strong academic background in Computer Science and Cybersecurity. I specialize in backend development, parallel computing, and spatial technologies (AR/VR). 
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools:
+* **Languages:** Python, C++, C#
+* **Parallel & GPU Computing:** OpenMP, MPI, CUDA
+* **Data & Backend:** FastAPI, Pandas, NumPy, Matplotlib, NetworkX, Docker
+* **XR & Spatial Computing:** Unity, AR Foundation, ARCore Geospatial API, XR Interaction Toolkit
+* **Game programming:** Unreal Engine
+* **Documentation & Web:** Docusaurus, Nextra, MDX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I do:
+* Develop parallel algorithms and perform data processing/simulation.
+* Build AR/VR applications integrating real-world spatial data.
+* Design and deploy technical documentation architectures.
